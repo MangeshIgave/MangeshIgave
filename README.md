@@ -1,7 +1,7 @@
 ![Dark Banner](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Mangesh%20Igave&fontColor=ffffff&fontSize=40)
 
 # 💫 About Me:
-🔭 I’m currently working on<br>DSA in C++ and real-world development projects<br><br>👯 I’m looking to collaborate on<br>Open-source and hackathon projects<br><br>🤝 I’m looking for help with<br>Advanced problem-solving and system design<br><br>🌱 I’m currently learning<br>Full-stack development and data science<br><br>💬 Ask me about<br>C++, DSA, and beginner web development<br><br>⚡ Fun fact<br>Consistency > talent
+🔭 I’m currently working on<br>DSA in C++ and real-world projects<br><br>👯 I’m looking to collaborate on<br>Open-source and hackathon projects<br><br>🤝 I’m looking for help with<br>Advanced problem-solving and system design<br><br>🌱 I’m currently learning<br>Full-stack development<br><br>💬 Ask me about<br>C++, DSA, and beginner web development<br><br>⚡ Fun fact<br>Consistency > talent
 
 
 ## 🌐 Socials:
